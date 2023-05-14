@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "545833876256",
+    "firebase_url": "https://shoppapp-f8d4e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shoppapp-f8d4e",
+    "storage_bucket": "shoppapp-f8d4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545833876256:android:ba691310be36230e48b545",
+        "android_client_info": {
+          "package_name": "com.example.hehe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545833876256-3c6eq3epi0rosddpj8j3gn96q1k5rqd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArmi998qFEqYa8xzOvhB8QCCu8IP7GYT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545833876256-3c6eq3epi0rosddpj8j3gn96q1k5rqd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
