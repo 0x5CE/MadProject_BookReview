@@ -2,7 +2,7 @@
 
 ## Mobile Application Development Term project
 ### Group members: 
-  #### Syed Muazzam Ali Shah Kazmi (227066), Muhammad Umair (282593)
+  #### Syed Muazzam Ali Shah Kazmi (227066), Muhammad Umair (282593), Muhammad Mohsin Khan (285110)
 ### Class:  BSCS 9B
 ### Submitted to:  Dr Hasan Ali Khattak
 
